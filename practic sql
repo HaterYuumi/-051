@@ -1,0 +1,20 @@
+# sql commands
+show database - просмотр данных
+creat database - создать базу данный
+Use - выбрать базу даных
+source - позвояет выполнить сразу несколько команд
+show tables - просмотр всех ьаблиц баз данных
+Describe - просмотр свединей таблиц
+
+select count(*) from information_schema.table where table_type = 'base table':
+select table_name from informtion_schema.tables where table_schema = 'p518238';
+select * from users;
+select * from grades;
+select * from users, grades where users.user_id = grades.user_id
+select * from users where fam = 'Левковский'
+
+вывод:
+10
+class, grades, mov, movi, movies, users
+261 ползователь
+Сверчков Павел КР и ЛР 5 и 4
