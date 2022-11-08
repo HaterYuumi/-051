@@ -7,5 +7,12 @@
 - HaterYuumi.ipynb - код python которые я умею писать
 - practice sql - работа sql с select и бд
 
+# Шпоры ЕГЭ
 
-$$\sum_{1}^{2}=\sqrt{\frac{F*d^{2-x}}{(x-1)*x}}$$
+$$ \bar E_1 ^{2}=\sqrt{\frac{Fa^{2-x}}{(x-1)*x}}+\alpha_{1}^{2}+\beta_{1}^{2} $$
+
+$$ \ce{H_{2}O ->[4e-] 2H_{2} ^ +O_{2} ^} $$
+
+$$d_{воз}= \frac{M_(вещ.)}{M_(воз.)}=21$$
+
+![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114468482/200493266-07ce4b9e-ea21-4ea6-8188-d3a117940f5d.png)
