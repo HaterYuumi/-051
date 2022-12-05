@@ -7,6 +7,7 @@
 - HaterYuumi.ipynb - код python которые я умею писать
 - practice sql - работа sql с select и бд
 - викторина - викторина на python
+- certificate.pdf - сертификат урок цифры
 
 # Шпоры ЕГЭ
 
