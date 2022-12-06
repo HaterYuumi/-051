@@ -20,11 +20,11 @@ $$d_{воз}= \frac{M_(вещ.)}{M_(воз.)}=21$$
 ![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114468482/200493266-07ce4b9e-ea21-4ea6-8188-d3a117940f5d.png)
 
 
-'''mermaid
+```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
-'''
+```
