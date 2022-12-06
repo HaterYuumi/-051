@@ -23,8 +23,8 @@ $$d_{воз}= \frac{M_(вещ.)}{M_(воз.)}=21$$
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|вступительные| B(11 класс)
+B --> C{ЕГЭ}
+C -->|сдал| D[ВУЗ]
+C -->|не сдал| E[армия]
 ```
