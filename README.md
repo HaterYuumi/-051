@@ -13,6 +13,7 @@
 - practice sql - работа sql с select и бд
 - викторина - викторина на python
 - certificate.pdf - сертификат урок цифры
+- http://project6514439.tilda.ws/ - сайт тильда
 
 # Шпоры ЕГЭ
 
