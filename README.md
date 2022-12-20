@@ -13,7 +13,7 @@
 - practice sql - работа sql с select и бд
 - викторина - викторина на python
 - certificate.pdf - сертификат урок цифры
-- http://project6514439.tilda.ws/ - сайт тильда
+- http://tochno100ege.tilda.ws - сайт тильда
 
 # Шпоры ЕГЭ
 
@@ -51,3 +51,6 @@ gantt
     Parallel 3   :         des5, after des3, 1d
     Parallel 4   :         des6, after des4, 1d
  ```
+
+![mermaid-diagram-2022-12-20-132235](https://user-images.githubusercontent.com/114468482/208598433-58286368-a1f0-47a6-b420-f1b1e81fa3ad.png)
+
